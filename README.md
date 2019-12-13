@@ -1,5 +1,5 @@
 # Capabilities
-These are my API capabilities, providing me with a quick place to publish the API capabilities I have defined using Postman collections.
+These are my API capabilities, providing me with a quick place to publish the API capabilities I have defined using Postman collections. You can run
 
 ## Twitter
 
@@ -13,9 +13,9 @@ These are my API capabilities, providing me with a quick place to publish the AP
 | Name          | Description  | Run In Postman Button  |
 | ------------- | ------------ | -------------- |
 | Search Code | Searches GitHub for code. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/4f512e70fb83da7f081a) |
-| Search Issues | Searches GitHub for issues. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/dc73414dd9d96f82f5bc) |
+| Search Issues | Searches GitHub for issues. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/907bac453847f749671c) |
 | Search Repositories | Searches GitHub for repositories. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/b0d83354ba4c8274d3f9) |
 | Search Users | Searches GitHub for users. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/8672372adc904d3e8852) |
-| GitHub Public Events | Lists public events for a GitHub user. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0285c60b5c5ae16653f1) |
+| GitHub Public Events | Lists public events for a GitHub user. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/ab513b3f4b2b371549c5) |
 | GitHub Organization Events | List public events for a GitHub organization. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/f84e4ce2bcd1e5bca235) |
 | GitHub List Organization Members | List the members for a GitHub organization. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0285c60b5c5ae16653f1) |
