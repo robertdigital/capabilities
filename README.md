@@ -3,14 +3,14 @@ These are my API capabilities, providing me with a quick place to publish the AP
 
 ## Twitter
 
-| Name          | Docs  | Description  | Run In Postman Button  |
+| Name          | Docs  | Description  | Run  |
 | ------------- | ------------ | ------------ | -------------- |
 | Tweet Search | [Docs](https://documenter.getpostman.com/view/35240/SWE6adN7?version=latest) | A basic search for Tweets on Twitter by query. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/4e1e1215a622cee90d3a) |
 | Twitter Account Status | [Docs](https://documenter.getpostman.com/view/35240/SWE6aJ7a?version=latest) | Doing a lookup on users and returning only the fields that describe their status.  | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0de9bb0fdacd6b8f1e74) |
 
 ## GitHub
 
-| Name          | Description  | Description  | Run In Postman Button  |
+| Name          | Docs  | Description  | Run  |
 | ------------- | ------------ | ------------ | -------------- |
 | Search Code | [Docs](https://documenter.getpostman.com/view/35240/SWLZeV4t?version=latest) | Searches GitHub for code, using a specific query. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/4f512e70fb83da7f081a) |
 | Search Issues | [Docs](https://documenter.getpostman.com/view/35240/SWLZeV99?version=latest) | Searches GitHub for issues, using a specific query. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/907bac453847f749671c) |
