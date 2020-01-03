@@ -9,6 +9,8 @@ These are my API capabilities, providing me with a quick place to publish the AP
 | Twitter Account Status | [Docs](https://documenter.getpostman.com/view/35240/SWE6aJ7a?version=latest) | Doing a lookup on users and returning only the fields that describe their status.  | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0de9bb0fdacd6b8f1e74) |
 | Twitter Favorites | [Docs](https://documenter.getpostman.com/view/35240/SWLb9V6Y?version=latest#intro) | Pulls a list of the last 200 favorited Tweets for a Twitter user.  | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/1a986946a84044bc2a8a) |
 | Twitter Favorite Links | [Docs](https://documenter.getpostman.com/view/35240/SWLb9V6d?version=latest) | Pulls a list of the last 200 favorited Tweets for a Twitter user, and extracts the links from the Tweets. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0dcd9957f7bc337459ad) |
+| Twitter Friends | [Docs](https://documenter.getpostman.com/view/35240/SWLe683A?version=latest) | Pulls all of the friends for a Twitter account. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/02ad23d79bd3c696c27e) |
+| Twitter Follower | [Docs](https://www.getpostman.com/collections/5f993708595e1d927066) | Pulls a list of the followers for a Twitter account. | [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/5f993708595e1d927066) |
 
 ## GitHub
 
